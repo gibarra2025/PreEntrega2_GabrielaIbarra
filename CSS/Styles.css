@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body{
+    height: 100vh;
+}
+header{
+    height: 30vh;
+}
+main{
+    height: 65vh;
+}
+footer{
+    height: 5vh;
+}
+
+li{
+    list-style-type: none;
+}
+
+.slide img{
+    height: 20vh;
+}
